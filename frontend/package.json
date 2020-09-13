@@ -17,6 +17,6 @@
     "eslint": "^5.6.1",
     "eslint-config-google": "^0.10.0",
     "express": "^4.16.3",
-    "node-fetch": "1.7.3"
+    "node-fetch": "2.6.1"
   }
 }
